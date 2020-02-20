@@ -1,0 +1,2 @@
+# AzureRepo
+sample azure projects
