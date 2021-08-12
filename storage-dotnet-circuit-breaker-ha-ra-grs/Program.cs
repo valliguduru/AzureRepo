@@ -54,8 +54,8 @@ namespace CircuitBreakerSample
     /// </summary>
     public class Program
     {
-        static string storageConnectionString = "<Add your storage connection string here>";
-        
+        static string storageConnectionString = "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=healthcareapp21038;AccountKey=Doz4aXeoDdkMpmF5eWdMD1rpqLG56TARabLmQ14cSJLBOHvTvxolc3jEumKpk6KvQeBsE7AdfwhimXtH5vg2rw==";
+
         // Track how many times retry events occur.
         static int retryCount = 0;             // Number of retries that have occurred 
         static int retryThreshold = 5;         // Threshold number of retries before switching to secondary 
