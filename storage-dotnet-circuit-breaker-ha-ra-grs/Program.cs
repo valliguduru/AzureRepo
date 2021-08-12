@@ -52,6 +52,7 @@ namespace CircuitBreakerSample
     /// - Storage Emulator - https://docs.microsoft.com/azure/storage/common/storage-use-emulator
     /// - Asynchronous Programming with Async and Await  - http://msdn.microsoft.com/library/hh191443.aspx
     /// </summary>
+    /// ///sampl1
     public class Program
     {
         static string storageConnectionString = "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=healthcareapp21038;AccountKey=Doz4aXeoDdkMpmF5eWdMD1rpqLG56TARabLmQ14cSJLBOHvTvxolc3jEumKpk6KvQeBsE7AdfwhimXtH5vg2rw==";
