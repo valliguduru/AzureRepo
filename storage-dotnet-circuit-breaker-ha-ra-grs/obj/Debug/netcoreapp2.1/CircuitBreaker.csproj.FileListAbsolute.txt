@@ -1,0 +1,13 @@
+C:\Users\Maguluri\repos\mslearn-ha-application-storage-with-grs\storage-dotnet-circuit-breaker-ha-ra-grs\bin\Debug\netcoreapp2.1\HelloWorld.png
+C:\Users\Maguluri\repos\mslearn-ha-application-storage-with-grs\storage-dotnet-circuit-breaker-ha-ra-grs\bin\Debug\netcoreapp2.1\CircuitBreaker.deps.json
+C:\Users\Maguluri\repos\mslearn-ha-application-storage-with-grs\storage-dotnet-circuit-breaker-ha-ra-grs\bin\Debug\netcoreapp2.1\CircuitBreaker.runtimeconfig.json
+C:\Users\Maguluri\repos\mslearn-ha-application-storage-with-grs\storage-dotnet-circuit-breaker-ha-ra-grs\bin\Debug\netcoreapp2.1\CircuitBreaker.runtimeconfig.dev.json
+C:\Users\Maguluri\repos\mslearn-ha-application-storage-with-grs\storage-dotnet-circuit-breaker-ha-ra-grs\bin\Debug\netcoreapp2.1\CircuitBreaker.dll
+C:\Users\Maguluri\repos\mslearn-ha-application-storage-with-grs\storage-dotnet-circuit-breaker-ha-ra-grs\bin\Debug\netcoreapp2.1\CircuitBreaker.pdb
+C:\Users\Maguluri\repos\mslearn-ha-application-storage-with-grs\storage-dotnet-circuit-breaker-ha-ra-grs\obj\Debug\netcoreapp2.1\CircuitBreaker.csprojAssemblyReference.cache
+C:\Users\Maguluri\repos\mslearn-ha-application-storage-with-grs\storage-dotnet-circuit-breaker-ha-ra-grs\obj\Debug\netcoreapp2.1\CircuitBreaker.AssemblyInfoInputs.cache
+C:\Users\Maguluri\repos\mslearn-ha-application-storage-with-grs\storage-dotnet-circuit-breaker-ha-ra-grs\obj\Debug\netcoreapp2.1\CircuitBreaker.AssemblyInfo.cs
+C:\Users\Maguluri\repos\mslearn-ha-application-storage-with-grs\storage-dotnet-circuit-breaker-ha-ra-grs\obj\Debug\netcoreapp2.1\CircuitBreaker.csproj.CoreCompileInputs.cache
+C:\Users\Maguluri\repos\mslearn-ha-application-storage-with-grs\storage-dotnet-circuit-breaker-ha-ra-grs\obj\Debug\netcoreapp2.1\CircuitBreaker.dll
+C:\Users\Maguluri\repos\mslearn-ha-application-storage-with-grs\storage-dotnet-circuit-breaker-ha-ra-grs\obj\Debug\netcoreapp2.1\CircuitBreaker.pdb
+C:\Users\Maguluri\repos\mslearn-ha-application-storage-with-grs\storage-dotnet-circuit-breaker-ha-ra-grs\obj\Debug\netcoreapp2.1\CircuitBreaker.genruntimeconfig.cache
